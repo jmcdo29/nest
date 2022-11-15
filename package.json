@@ -153,7 +153,7 @@
     "lerna-changelog": "2.2.0",
     "light-my-request": "5.6.1",
     "lint-staged": "13.0.3",
-    "markdown-table": "2.0.0",
+    "markdown-table": "3.0.2",
     "merge-graphql-schemas": "1.7.8",
     "mocha": "10.1.0",
     "mongoose": "6.7.2",
